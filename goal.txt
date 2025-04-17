@@ -1,0 +1,8 @@
+I want to make a site that is kinda like the person pause screens where there is different animation for like everything when you hover it
+
+for now 
+- create a backend for the blog page
+- make it so i can log in and post on the website
+- make sure i can post photos with the blog
+-Watch the youtube video on how to add blog using 
+markdown files

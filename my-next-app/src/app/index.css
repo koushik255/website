@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+
+
+.welcome-text{
+  text-align: center;
+  font-size: 5rem;
+  top: -500px;
+}
+
+.welcome2-text{
+  text-align: center;
+}
+.about-link{
+  font-size: 4rem;
+  text-align: center;
+  position: relative;
+  top: 200px;
+}
+
+.blog-link{
+  font-size: 4rem;
+  text-align: center;
+  position: relative;
+  top: 300px;
+}
+
+
+.about-container{
+  text-align: left;
+}
+
+.about-image{
+  width: 400px;
+  height:auto;
+  
+}
+
+.back-button{
+  display: block;
+  margin: 0 auto;
+
+}
+
+.about-text1{
+  text-align:  center;
+  position: relative;
+  top: -275px;
+  left: -100px;
+  
+}
+
+html {
+  overflow-y: scroll;
+}
+
